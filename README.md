@@ -1,6 +1,6 @@
 # CRUD SQLite - Kotlin
 
-Este é um aplicativo Android desenvolvido em Kotlin que permite o salvento de um usuário digitado.
+Este é um aplicativo Android desenvolvido em Kotlin que permite o salvamento de um usuário digitado.
 
 ## Pré-requisitos
 
